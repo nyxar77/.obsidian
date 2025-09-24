@@ -1,0 +1,7 @@
+{
+  "theme": "system",
+  "cssTheme": "Catppuccin",
+  "accentColor": "#ff5789",
+  "baseFontSizeAction": false,
+  "baseFontSize": 18
+}
