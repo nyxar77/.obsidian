@@ -76,17 +76,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2025-09-25 20.16.36.excalidraw.md",
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-09-25 20.16.36.excalidraw"
+              "title": "Outline of Untitled"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,12 +168,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "493cdb3671f297c2",
+  "active": "13c28f847d8495df",
   "lastOpenFiles": [
+    "Untitled",
+    "Untitled.md",
     "Untitled.base",
     "Excalidraw/Drawing 2025-09-25 20.16.36.excalidraw.md",
     "Excalidraw/Drawing 2025-09-25 20.13.35.excalidraw.md",
-    "Untitled.md",
     "Excalidraw",
     "2025-09-24.md",
     "Untitled 1.canvas",
