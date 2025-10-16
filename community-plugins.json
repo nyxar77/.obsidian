@@ -4,5 +4,6 @@
   "dataview",
   "obsidian-full-calendar",
   "obsidian-git",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "vim-yank-highlight"
 ]
